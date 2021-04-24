@@ -39,7 +39,7 @@
   position: relative;
 }
 
-.header__logo img {
+.header__logo_image {
   position: absolute;
   top: 30px;
   left: 64px;
@@ -80,7 +80,7 @@
   display: relative;
 }
 
-.header__main-illustration img {
+.header__main-illustration_image {
   position: absolute;
   width: 765px;
   height: 608px;
@@ -132,7 +132,7 @@
   width: 80%;
 }
 
-.two-columns__brief p {
+.two-columns__brief_text {
   width: 175px;
   line-height: 1.2;
   font-size: 18px;
@@ -145,7 +145,7 @@
  margin-top: 0;
 }
 
-.two-columns__paragraph span {
+.two-columns__paragraph_span {
   line-height: 34px;
   font-size: 24px;
   font-weight: bolder;
@@ -165,7 +165,7 @@
   width: 60%;
 }
 
-.digits__title h1 {
+.digits__title_text {
   line-height: 1.15;
   font-size: 60px;
   margin: 0;
@@ -179,7 +179,7 @@
   width: 60%;
 }
 
-.digits__subtitle h3 {
+.digits__subtitle_text {
   line-height: 34px;
   font-size: 24px;
   margin: 20px 0 60px 0;
@@ -196,10 +196,10 @@
   padding: 0;
 }
 
-.cell_p_margin p {
+.cell_p_margin {
   margin: 20px 0;
 }
-.cell_p_margin p:last-child {
+.cell_p_margin:last-child {
   margin-bottom: 0;
 }
 
