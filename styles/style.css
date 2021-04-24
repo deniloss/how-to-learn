@@ -9,11 +9,21 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
+
+
+
+.red {
+  border: 1px solid red;
+}
+
+
+
+
 .header {
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
-  /* выше установили ограничения для секции */
+  background-color: #f2f2f2;
 }
 
 .header__logo {
@@ -66,7 +76,7 @@
   width: 765px;
   height: 608px;
   right: 0;
-  bottom: 0;
+  bottom: 28px;
   z-index: 1;
   
 }
@@ -85,8 +95,47 @@
   z-index: 0;
 }
 
+.two-columns {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  width: 80%;
+}
 
+.content {
+  margin-top: 100px;
+}
 
+.two-columns__paragraph {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  margin-top: 30px;
+}
+
+.two-columns__main-text {
+  min-width: 784px;
+  width: 80%;
+}
+
+.two-columns__paragraph:first-child {
+ margin-top: 0;
+}
+
+.two-columns__paragraph span {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: bolder;
+}
+
+.two-columns__brief p {
+  width: 175px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  color:#2f80ed;
+  margin-top: 0;
+}
 
 
 
