@@ -320,12 +320,13 @@
   z-index: 2;
 }
 
-.section__title_theme_dark {
-  padding-top: 90px;
+.table__cell_theme_dark {
+  width: 200px;
+  margin: 0;
 }
 
-.table__cell {
-  width: 200px;
+.section__title_theme_dark {
+  padding-top: 90px;
 }
 
 /* SECTION DARK THEME (END) */
