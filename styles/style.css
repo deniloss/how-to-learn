@@ -5,48 +5,12 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-.flex-row {
-  display: flex;
-  margin: auto;
-  justify-content: space-between;
-}
-.flex-row:first-child {
-  margin-bottom: 60px;
-}
-
-
-
-
-
-
-
-
-
-
-
 .header {
   position: relative;
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
   background-color: #f2f2f2;
-}
-
-.header__logo-image {
-  position: relative;
 }
 
 .header__logo-image {
@@ -106,22 +70,9 @@
   z-index: 0;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 .content {
   margin-top: 100px;
 }
-
 
 .two-columns {
   display: flex;
@@ -161,16 +112,12 @@
   font-weight: bolder;
 }
 
-
-
-
 .digits {
   display: flex;
   flex-direction: column;
   margin-top: 100px;
   align-items: center;
 }
-
 
 .section__title {
   text-align: center;
@@ -190,21 +137,12 @@
   font-weight: normal;
 }
 
-
-
-/* DIGITS__TABLE MODS */
-
-
 .cell_p_margin {
   margin: 20px 0;
 }
 .cell_p_margin:last-child {
   margin-bottom: 0;
 }
-
-
-
-/* DIGITS__TABLE MODS (END) */
 
 .table {
   display: flex;
@@ -235,11 +173,6 @@
   font-weight: normal;
   margin: 20px 0 0 0;
 }
-
-
-
-
-
 
 .feynman {
   position: relative;
@@ -280,18 +213,6 @@
   text-decoration: none;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 .kaufman {
   display: flex;
   flex-direction: column;
@@ -306,14 +227,9 @@
   background-position: right -210px top 0;
 }
 
-
-/* SECTION DARK THEME MODIFICATORS */
-
 .table_theme_dark {
   position: relative;
-  z-index: 2;
-
-  
+  z-index: 2;  
 }
 
 .table__cell_theme_dark {
@@ -322,7 +238,6 @@
   margin: 0;
   text-align: left;
   margin-bottom: 80px;
-
 }
 
 .section__title_theme_dark {
@@ -332,21 +247,6 @@
 .section__subtitle_theme_dark {
   margin-bottom: 80px;
 }
-
-/* SECTION DARK THEME (END) */
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .footer {
   min-height: 350px;
