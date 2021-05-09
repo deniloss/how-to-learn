@@ -5,6 +5,10 @@
     font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
+.red {
+  border: 1px solid red;
+}
+
 .links:hover {
   opacity: .6;
   transition: opacity .5s ease-in;

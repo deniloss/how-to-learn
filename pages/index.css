@@ -4,6 +4,7 @@
 @import url(../blocks/logo/_place/_header/logo_place_header.css);
 @import url(../blocks/logo/_place/_footer/logo_place_footer.css);
 @import url(../blocks/header/header.css);
+@import url(../blocks/rotation/rotate.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__link/header__link.css);
@@ -19,6 +20,13 @@
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/digits/__title/digits__title.css);
 @import url(../blocks/digits/__subtitle/digits__subtitle.css);
+
+@import url(../blocks/techniques/techniques.css);
+@import url(../blocks/techniques/cards.css);
+@import url(../blocks/techniques/__item/techniques__item.css);
+@import url(../blocks/techniques/__title/techniques__title.css);
+@import url(../blocks/techniques/__image/techniques__image.css);
+@import url(../blocks/techniques/__description/techniques__description.css);
 
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/_theme/_dark/table_theme_dark.css);
