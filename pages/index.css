@@ -11,15 +11,15 @@
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 
+@import url(../blocks/digits/digits.css);
+@import url(../blocks/digits/__title/digits__title.css);
+@import url(../blocks/digits/__subtitle/digits__subtitle.css);
+
 @import url(../blocks/description/description.css);
 @import url(../blocks/description/__brief/description__brief.css);
 @import url(../blocks/description/__main-text/description__main-text.css);
 @import url(../blocks/description/__paragraph/description__paragraph.css);
 @import url(../blocks/description/__span-accent/description__span-accent.css);
-
-@import url(../blocks/digits/digits.css);
-@import url(../blocks/digits/__title/digits__title.css);
-@import url(../blocks/digits/__subtitle/digits__subtitle.css);
 
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/techniques/cards.css);
