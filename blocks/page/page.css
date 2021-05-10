@@ -9,7 +9,10 @@
   border: 1px solid red;
 }
 
+.links {
+  transition: opacity .5s ease-in;
+}
+
 .links:hover {
   opacity: .6;
-  transition: opacity .5s ease-in;
 }

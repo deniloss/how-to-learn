@@ -10,5 +10,9 @@
 
 .header__square-pic {
     animation: rotate 20s infinite linear;
-    overflow: hidden;
+    
+}
+
+.kaufman__triangle {
+    animation: rotate 20s infinite linear;
 }
