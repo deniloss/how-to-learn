@@ -10,15 +10,3 @@
     text-align: left;
     margin-bottom: 80px;
   }
-  
-  .section__title_theme_dark {
-    position: relative;
-    padding-top: 90px;
-    z-index: 3;
-  }
-  
-  .section__subtitle_theme_dark {
-    margin-bottom: 80px;
-    position: relative;
-    z-index: 3;
-  }

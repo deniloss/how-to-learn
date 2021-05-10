@@ -1,6 +1,12 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/content/content.css);
+
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_theme/_dark/section-title_theme_dark.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/section-subtitle/_theme/_dark/section-subtitle_theme_dark.css);
+
 @import url(../blocks/logo/_place/_header/logo_place_header.css);
 @import url(../blocks/logo/_place/_footer/logo_place_footer.css);
 @import url(../blocks/header/header.css);
