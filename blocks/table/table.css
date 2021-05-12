@@ -7,32 +7,8 @@
     justify-content: space-between;
   }
   
-  .table__cell {
-    min-height: auto;
-    width: 250px;
-    padding: 0;
-    text-align: left;
-    margin-bottom: 60px;
-  }
   
-  .table__heading {
-    position: relative;
-    z-index: 2;
-    margin: 0;
-    line-height: 1.15;
-    font-size: 24px;
-    font-weight: bolder;
-  }
   
-  .table__text {
-    position: relative;
-    z-index: 2;
-    line-height: 1.2;
-    font-size: 18px;
-    font-weight: normal;
-    margin: 20px 0 0 0;
-  }
   
-  .table__text:last-child {
-    margin-bottom: 0;
-  }
+  
+  

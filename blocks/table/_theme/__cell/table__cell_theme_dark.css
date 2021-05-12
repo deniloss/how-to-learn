@@ -1,9 +1,4 @@
-.table_theme_dark {
-    position: relative;
-    z-index: 2;  
-  }
-  
-  .table__cell_theme_dark {
+.table__cell_theme_dark {
     width: 200px;
     color: white;
     margin: 0;

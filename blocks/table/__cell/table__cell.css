@@ -1,0 +1,7 @@
+.table__cell {
+    min-height: auto;
+    width: 250px;
+    padding: 0;
+    text-align: left;
+    margin-bottom: 60px;
+  }
