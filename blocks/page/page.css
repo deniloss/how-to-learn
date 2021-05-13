@@ -5,10 +5,3 @@
     font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-.links {
-  transition: opacity .2s ease-in;
-}
-
-.links:hover {
-  opacity: .6;
-}
